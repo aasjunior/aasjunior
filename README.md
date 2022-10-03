@@ -6,7 +6,7 @@ Olá, eu sou o Junior :space_invader:
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight" align = "left"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=400" align = "left"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjunior&layout=compact&theme=tokyonight" align = "left"/>
 </p>
 <!--
