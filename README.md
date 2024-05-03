@@ -6,15 +6,11 @@ Olá, eu sou o Junior :space_invader:
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=400" align = "left"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjunior&layout=compact&theme=tokyonight" align = "right"/>
-  <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=400" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjunior&layout=compact&theme=tokyonight" align = "center"/>
 </p>
 
-<br><br>
-
 <p align="center">
-  <br><br>
   <img
         align="center"
         height="180em"
