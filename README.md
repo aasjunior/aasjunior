@@ -4,7 +4,7 @@ Olá, eu sou o Junior :space_invader:
 - :technologist: Técnico em Desenvolvimento de Sistemas | ETEC <br>
 - :man_student: Graduando em Desenvolvimento de Software Multiplataforma | FATEC  <br><br>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aasjunior)
+ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aasjunior) -->
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=400" align = "center"/>
