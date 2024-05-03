@@ -24,7 +24,6 @@ Olá, eu sou o Junior :space_invader:
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2303DAC5.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **Banco de Dados**:
