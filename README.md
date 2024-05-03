@@ -12,7 +12,7 @@ Olá, eu sou o Junior :space_invader:
 
 <br><br><br><br><br><br><br><br>
 
-<h2>Tecnologias</h2>
+<h2>Principais Tecnologias</h2>
 
 **Linguagens**:
 
