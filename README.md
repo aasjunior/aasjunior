@@ -48,8 +48,7 @@ Olá, eu sou o Junior :space_invader:
 </p>
 <br>
 
-<h3>Outras Tecnologias</h3>
-<hr>
+<h4>Outras Tecnologias</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
