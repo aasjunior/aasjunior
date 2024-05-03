@@ -1,5 +1,5 @@
 Olá, eu sou o Junior :space_invader:
-<hr>
+##
 - :mechanical_leg: Técnico em Mecatrônica | IFSP <br>
 - :technologist: Técnico em Desenvolvimento de Sistemas | ETEC <br>
 - :man_student: Graduando em Desenvolvimento de Software Multiplataforma | FATEC  <br><br>
@@ -28,7 +28,7 @@ Olá, eu sou o Junior :space_invader:
       <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
       <p>Esta é uma certificação que obtive da Microsoft, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div>
-
+<br>
 
 <h2>Principais Tecnologias</h2>
 
