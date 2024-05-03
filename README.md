@@ -21,6 +21,15 @@ Olá, eu sou o Junior :space_invader:
 </p>
 <br>
 
+<h2>Certificações</h2>
+
+<div>
+      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150" style="margin-right: 20px;" />
+      <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
+      <p>Esta é uma certificação que obtive da Microsoft, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
+</div>
+
+
 <h2>Principais Tecnologias</h2>
 
 **Linguagens**:
@@ -71,3 +80,7 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />-->
 </p>
+
+##
+
+<a href="https://www.linkedin.com/in/adeldivo-alves-de-sousa-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
