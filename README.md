@@ -26,7 +26,7 @@ Olá, eu sou o Junior :space_invader:
 <div>
       <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150" style="margin-right: 20px;" />
       <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
-      <p>Esta é uma certificação que obtive da Microsoft, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
+      <p>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div>
 <br>
 
