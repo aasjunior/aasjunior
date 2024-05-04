@@ -4,7 +4,7 @@ Olá, eu sou o Junior :space_invader:
 - :technologist: Técnico em Desenvolvimento de Sistemas | ETEC <br>
 - :man_student: Graduando em Desenvolvimento de Software Multiplataforma | FATEC  <br><br>
 
- <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aasjunior) -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aasjunior) -->
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=400" align = "center"/>
@@ -39,7 +39,6 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
-<br>
 
 **Frameworks**:
 
@@ -48,7 +47,6 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
-<br>
 
 **Banco de Dados**:
 
@@ -56,7 +54,6 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-<br>
 
 <h2>Outras Tecnologias</h2>
 
