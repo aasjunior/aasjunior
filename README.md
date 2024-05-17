@@ -28,6 +28,26 @@ Olá, eu sou o Junior :space_invader:
       <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
       <p>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div>
+<br><br>
+
+<div>
+  <img src="https://github.com/aasjunior/aasjunior/assets/61213599/6732ac0a-06d1-4a8a-af34-315698b83791" alt="Fatec - Desenvolvedor Back-End" height="140" />
+  <p><strong>Desenvolvedor Back-End</strong></p>
+  <p>Certificação Intermediária: Desenvolvedor Back-End</p>
+  <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
+  <p><b>Tópicos abordados:</b> Linguagens de programação como Java, C, Python e PHP. Modelagem de banco de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB), bem como o desenvolvimento de RESTAPI usando frameworks como Flask e Spring Boot. Também foram exploradas metodologias, padrões de projeto, testes e boas práticas no desenvolvimento de software, além dos conceitos essenciais para criar algoritmos eficientes e resolução de problemas computacionais.</p>
+</div>
+<br><br>
+
+<div>
+  
+  <img src="https://github.com/aasjunior/aasjunior/assets/61213599/4b340b28-f88f-43dd-abf2-95331724ecc9" alt="Fatec - Desenvolvedor Front-End" height="140" />
+
+  <p><strong>Desenvolvedor Front-End</strong></p>
+  <p>Certificação Intermediária: Desenvolvedor Front-End</p>
+  <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
+  <p><b>Tópicos abordados:</b> Tecnologias como HTML, CSS e Javascript. Aplicação dos conceitos e técnicas de UI/UX, incluindo usabilidade, acessibilidade, design responsivo, metodologias de pesquisa, arquitetura da informação, interface gráfica, experiência do consumidor, técnicas e ferramentas de testes com usuários.</p>
+</div>
 <br>
 
 <h2>Principais Tecnologias</h2>
@@ -78,6 +98,6 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />-->
 </p>
 
-##
+## Contato
 
 <a href="https://www.linkedin.com/in/adeldivo-alves-de-sousa-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
