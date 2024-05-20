@@ -7,8 +7,8 @@ Olá, eu sou o Junior :space_invader:
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aasjunior) -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=400" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjunior&layout=compact&theme=tokyonight" align = "center"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=aasjunior&show_icons=true&theme=tokyonight&card_width=350" align = "center"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasjunior&layout=compact&theme=tokyonight&card_width=370" align = "center"/>
 </p>
 
 <p align="center">
