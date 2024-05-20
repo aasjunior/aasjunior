@@ -12,12 +12,15 @@ Olá, eu sou o Junior :space_invader:
 </p>
 
 <p align="center">
-  <img
+<!--<img
         align="center"
         height="180em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=tokyonight&hide_border=false"
         alt="Github Stats"
-      />
+      />-->
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasjunior&theme=tokyo-night" width="740">
+  
 </p>
 <br>
 
