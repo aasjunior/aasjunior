@@ -33,7 +33,6 @@ Olá, eu sou o Junior :space_invader:
 <div>
   <img src="https://github.com/aasjunior/aasjunior/assets/61213599/6732ac0a-06d1-4a8a-af34-315698b83791" alt="Fatec - Desenvolvedor Back-End" height="140" />
   <p><strong>Desenvolvedor Back-End</strong></p>
-  <p>Certificação Intermediária: Desenvolvedor Back-End</p>
   <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
   <p><b>Tópicos abordados:</b> Linguagens de programação como Java, C, Python e PHP. Modelagem de banco de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB), bem como o desenvolvimento de RESTAPI usando frameworks como Flask e Spring Boot. Também foram exploradas metodologias, padrões de projeto, testes e boas práticas no desenvolvimento de software, além dos conceitos essenciais para criar algoritmos eficientes e resolução de problemas computacionais.</p>
 </div>
@@ -44,7 +43,6 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://github.com/aasjunior/aasjunior/assets/61213599/4b340b28-f88f-43dd-abf2-95331724ecc9" alt="Fatec - Desenvolvedor Front-End" height="140" />
 
   <p><strong>Desenvolvedor Front-End</strong></p>
-  <p>Certificação Intermediária: Desenvolvedor Front-End</p>
   <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
   <p><b>Tópicos abordados:</b> Tecnologias como HTML, CSS e Javascript. Aplicação dos conceitos e técnicas de UI/UX, incluindo usabilidade, acessibilidade, design responsivo, metodologias de pesquisa, arquitetura da informação, interface gráfica, experiência do consumidor, técnicas e ferramentas de testes com usuários.</p>
 </div>
