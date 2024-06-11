@@ -66,7 +66,7 @@ Olá, eu sou o Junior :space_invader:
 <p>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%2303DAC5.svg?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />-->
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
 </p>
 
@@ -84,6 +84,7 @@ Olá, eu sou o Junior :space_invader:
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white" />
   <!--<img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C" />-->
   <img src="https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D" />
   <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED" />
