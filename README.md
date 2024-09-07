@@ -1,8 +1,14 @@
 Olá, eu sou o Junior :space_invader:
+
 ##
-- :mechanical_leg: Técnico em Mecatrônica | IFSP <br>
-- :technologist: Técnico em Desenvolvimento de Sistemas | ETEC <br>
-- :man_student: Graduando em Desenvolvimento de Software Multiplataforma | FATEC  <br><br>
+
+<p>
+    <ul>
+        <li>:mechanical_leg: Técnico em Mecatrônica | IFSP</li>
+        <li>:technologist: Técnico em Desenvolvimento de Sistemas | ETEC</li>
+        <li>:man_student: Graduando em Desenvolvimento de Software Multiplataforma | FATEC</li>
+    </ul>
+</p>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aasjunior) -->
 
@@ -103,4 +109,8 @@ Olá, eu sou o Junior :space_invader:
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/adeldivo-alves-de-sousa-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://github.com/user-attachments/assets/ad1f31e7-c5f0-4dd1-b383-a5e02f60178f" alt="snufkin_02" style="width: 250px; height: auto; margin-right: 20px;">
+<br>
+<a href="https://www.linkedin.com/in/adeldivo-alves-de-sousa-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
