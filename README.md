@@ -1,9 +1,9 @@
-Olá, eu sou o Junior :space_invader:
-
 ##
 
 <img src="https://github.com/user-attachments/assets/ad1f31e7-c5f0-4dd1-b383-a5e02f60178f" alt="snufkin_02" style="width: 250px; height: auto; margin-right: 20px;">
 <br>
+
+Olá, eu sou o Junior :space_invader:
 
 <p>
     <ul>
