@@ -1,4 +1,3 @@
-##
 Olá, eu sou o Junior :space_invader:
 
 <p>
