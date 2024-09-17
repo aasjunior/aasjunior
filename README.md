@@ -36,7 +36,9 @@ Olá, eu sou o Junior :space_invader:
 
 ![image](https://github.com/user-attachments/assets/7d1b7c61-a33b-434d-a21a-a28c367cb5fa)
 
-[Sofia](https://github.com/aasjunior/sofia-page) é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile **CAD** _(Computer-aided Diagnosis)_ é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
+<p align='justify'>
+    <a href='https://github.com/aasjunior/sofia-page'>Sofia</a> é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile <b>CAD</b> <em>(Computer-aided Diagnosis)</em> é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
+</p>
 
 ###### FETEPS 2024
 
@@ -56,8 +58,9 @@ Este projeto participou da **15ª Feira Tecnológica do Centro Paula Souza** - <
 
 <img src='https://github.com/user-attachments/assets/e90dbae1-1c0e-41a2-81c4-ef3e081257bc' width='180'>
 
+<p align='justify'>
 Tera é uma proposta acadêmica de um sistema de monitoramento pós-clínico de dependentes químicos reabilitados. A proposta consiste em um sistema Dashboard para monitoramento do paciente reabilitado, com acompanhamento diário de sua condição física e mental.
-
+</p>
 
 ###### FECIVALE 2023 - ISSN: 2526-1266
 
@@ -74,7 +77,9 @@ Essa iniciativa foi publicada na <a href='https://www.fecivale.com/c%C3%B3pia-an
 
 ### Petshop Dogin's 🐶💙
 
-Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um **CMS** _(Content Management System)_, que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
+<p align='justify'>
+Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um <b>CMS</b> <em>(Content Management System)</em>, que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
+</p>
 
 **Nossos Projetos**
 - <a href='https://github.com/isefshondo/petshopDogins' target='_blank'>Petshop Dogin's Web</a>
@@ -88,7 +93,7 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
   <img src="https://github.com/aasjunior/aasjunior/assets/61213599/6732ac0a-06d1-4a8a-af34-315698b83791" alt="Fatec - Desenvolvedor Back-End" height="135" />
   <p><strong>Desenvolvedor Back-End</strong></p>
   <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
-  <p><b>Tópicos abordados:</b> Linguagens de programação como Java, C, Python e PHP. Modelagem de banco de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB), bem como o desenvolvimento de RESTAPI usando frameworks como Flask e Spring Boot.</p>
+  <p align='justify'><b>Tópicos abordados:</b> Linguagens de programação como Java, C, Python e PHP. Modelagem de banco de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB), bem como o desenvolvimento de RESTAPI usando frameworks como Flask e Spring Boot.</p>
 
 <!-- Também foram exploradas metodologias, padrões de projeto, testes e boas práticas no desenvolvimento de software, além dos conceitos essenciais para criar algoritmos eficientes e resolução de problemas computacionais. -->
 </div>
@@ -100,7 +105,7 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
 
   <p><strong>Desenvolvedor Front-End</strong></p>
   <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
-  <p><b>Tópicos abordados:</b> Tecnologias como HTML, CSS e Javascript. Aplicação dos conceitos e técnicas de UI/UX.</p>
+  <p align='justify'><b>Tópicos abordados:</b> Tecnologias como HTML, CSS e Javascript. Aplicação dos conceitos e técnicas de UI/UX.</p>
 
 <!-- Aplicação dos conceitos e técnicas de UI/UX, incluindo usabilidade, acessibilidade, design responsivo, metodologias de pesquisa, arquitetura da informação, interface gráfica, experiência do consumidor, técnicas e ferramentas de testes com usuários. -->
 
@@ -110,8 +115,8 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
 <div>
       <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150"" />
       <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
-      <p>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure.</p>
-      <p><b>Tópicos abordados:</b> Aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
+      <p align='justify'>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure.</p>
+      <p align='justify'><b>Tópicos abordados:</b> Aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div><br>
 
 <h2>Principais Tecnologias</h2>
