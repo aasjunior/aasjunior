@@ -32,10 +32,60 @@ Olá, eu sou o Junior :space_invader:
 </p>
 <br>
 
+<h2>Principais Projetos</h2>
+
+![image](https://github.com/user-attachments/assets/7d1b7c61-a33b-434d-a21a-a28c367cb5fa)
+
+[Sofia](https://github.com/aasjunior/sofia-page) é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile CAD (computer aided design) é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
+
+###### FETEPS 2024
+
+Este projeto participou da **15ª Feira Tecnológica do Centro Paula Souza** - <a href='https://feteps.cpscetec.com.br/docs/2024_feteps_publicacao.pdf' target='_blank'>FETEPS</a>.
+
+<br>
+
+**Nossos Projetos**
+- <a href='https://github.com/aasjunior/com.sofia.mobile.git' target='_blank'>Sofia Mobile</a>
+- <a href='https://github.com/aasjunior/com.sofia.restapi' target='_blank'>Sofia Back-End (SpringBoot)</a>
+- <a href='https://github.com/mandis-ncs/api-flask' target='_blank'>Sofia Rede Neural MLP (FastAPI)</a>
+- <a href='https://github.com/aasjunior/sofia_playground' target='_blank'>Sofia Playground</a>
+
+<br>
+
+##
+
+<img src='https://github.com/user-attachments/assets/e90dbae1-1c0e-41a2-81c4-ef3e081257bc' width='180'>
+
+Tera é uma proposta acadêmica de um sistema de monitoramento pós-clínico de dependentes químicos reabilitados. A proposta consiste em um sistema Dashboard para monitoramento do paciente reabilitado, com acompanhamento diário de sua condição física e mental.
+
+
+###### FECIVALE 2023 - ISSN: 2526-1266
+
+Essa iniciativa foi publicada na <a href='https://www.fecivale.com/c%C3%B3pia-anais-2022-1' target='_blank'>FECIVALE 2023</a>, além de ser premiada como **Destaque** na categoria **Ensino Superior**.
+
+<br>
+
+**Nosso Projeto**
+- <a href='https://github.com/aasjunior/tera_dashboard' target='_blank'>Tera Dashboard</a>
+
+<br>
+
+##
+
+### Petshop Dogin's 🐶💙
+
+Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um CMS, que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
+
+**Nossos Projetos**
+- <a href='https://github.com/isefshondo/petshopDogins' target='_blank'>Petshop Dogin's Web</a>
+- <a href='https://github.com/isefshondo/PetshopDoginsMobile' target='_blank'>Petshop Dogin's Mobile</a>
+
+<br>
+
 <h2>Certificações</h2>
 
 <div>
-      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150" style="margin-right: 20px;" />
+      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150"" />
       <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
       <p>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div>
