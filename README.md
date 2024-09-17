@@ -85,29 +85,34 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
 <h2>Certificações</h2>
 
 <div>
-      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150"" />
-      <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
-      <p>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure. A avaliação abordou áreas como aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
-</div>
-<br><br>
-
-<div>
-  <img src="https://github.com/aasjunior/aasjunior/assets/61213599/6732ac0a-06d1-4a8a-af34-315698b83791" alt="Fatec - Desenvolvedor Back-End" height="140" />
+  <img src="https://github.com/aasjunior/aasjunior/assets/61213599/6732ac0a-06d1-4a8a-af34-315698b83791" alt="Fatec - Desenvolvedor Back-End" height="135" />
   <p><strong>Desenvolvedor Back-End</strong></p>
   <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
-  <p><b>Tópicos abordados:</b> Linguagens de programação como Java, C, Python e PHP. Modelagem de banco de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB), bem como o desenvolvimento de RESTAPI usando frameworks como Flask e Spring Boot. Também foram exploradas metodologias, padrões de projeto, testes e boas práticas no desenvolvimento de software, além dos conceitos essenciais para criar algoritmos eficientes e resolução de problemas computacionais.</p>
+  <p><b>Tópicos abordados:</b> Linguagens de programação como Java, C, Python e PHP. Modelagem de banco de dados relacionais (MySQL, SQLite) e não relacionais (MongoDB), bem como o desenvolvimento de RESTAPI usando frameworks como Flask e Spring Boot.</p>
+
+<!-- Também foram exploradas metodologias, padrões de projeto, testes e boas práticas no desenvolvimento de software, além dos conceitos essenciais para criar algoritmos eficientes e resolução de problemas computacionais. -->
 </div>
-<br><br>
+<br>
 
 <div>
   
-  <img src="https://github.com/aasjunior/aasjunior/assets/61213599/4b340b28-f88f-43dd-abf2-95331724ecc9" alt="Fatec - Desenvolvedor Front-End" height="140" />
+  <img src="https://github.com/aasjunior/aasjunior/assets/61213599/4b340b28-f88f-43dd-abf2-95331724ecc9" alt="Fatec - Desenvolvedor Front-End" height="135" />
 
   <p><strong>Desenvolvedor Front-End</strong></p>
   <p>Certificação Intermediária obtida como Qualificação Profissional Tecnológica pelo curso de Desenvolvimento de Software Multiplataforma da FATEC de Registro.</p>
-  <p><b>Tópicos abordados:</b> Tecnologias como HTML, CSS e Javascript. Aplicação dos conceitos e técnicas de UI/UX, incluindo usabilidade, acessibilidade, design responsivo, metodologias de pesquisa, arquitetura da informação, interface gráfica, experiência do consumidor, técnicas e ferramentas de testes com usuários.</p>
+  <p><b>Tópicos abordados:</b> Tecnologias como HTML, CSS e Javascript. Aplicação dos conceitos e técnicas de UI/UX.</p>
+
+<!-- Aplicação dos conceitos e técnicas de UI/UX, incluindo usabilidade, acessibilidade, design responsivo, metodologias de pesquisa, arquitetura da informação, interface gráfica, experiência do consumidor, técnicas e ferramentas de testes com usuários. -->
+
 </div>
 <br>
+
+<div>
+      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150"" />
+      <p><strong>Azure AI Fundamentals (AI-900)</strong></p>
+      <p>Esta é uma certificação que obtive da Microsoft, possibilitada por meio de uma formação realizada pela parceria entre o SENAI e a FATEC de Registro, que comprova minha familiaridade com os conceitos essenciais de inteligência artificial e sua implementação no portal Azure.</p>
+      <p><b>Tópicos abordados:</b> Aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
+</div><br>
 
 <h2>Principais Tecnologias</h2>
 
