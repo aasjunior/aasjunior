@@ -36,7 +36,7 @@ Olá, eu sou o Junior :space_invader:
 
 ![image](https://github.com/user-attachments/assets/7d1b7c61-a33b-434d-a21a-a28c367cb5fa)
 
-[Sofia](https://github.com/aasjunior/sofia-page) é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile CAD (computer aided design) é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
+[Sofia](https://github.com/aasjunior/sofia-page) é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile **CAD** _(Computer-aided Diagnosis)_ é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
 
 ###### FETEPS 2024
 
@@ -74,7 +74,7 @@ Essa iniciativa foi publicada na <a href='https://www.fecivale.com/c%C3%B3pia-an
 
 ### Petshop Dogin's 🐶💙
 
-Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um CMS, que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
+Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um **CMS** _(Content Management System)_, que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
 
 **Nossos Projetos**
 - <a href='https://github.com/isefshondo/petshopDogins' target='_blank'>Petshop Dogin's Web</a>
