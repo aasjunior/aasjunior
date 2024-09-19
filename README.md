@@ -37,7 +37,7 @@ Olá, eu sou o Junior :space_invader:
 ![image](https://github.com/user-attachments/assets/7d1b7c61-a33b-434d-a21a-a28c367cb5fa)
 
 <p>
-    <a href='https://github.com/aasjunior/sofia-page'>Sofia</a> é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile <b>CAD</b> <em>(Computer-aided Diagnosis)</em> é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
+    <a href='https://sofia-aja.vercel.app/'>Sofia</a> é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 4 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile <b>CAD</b> <em>(Computer-aided Diagnosis)</em> é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
 </p>
 
 ###### FETEPS 2024
@@ -48,8 +48,9 @@ Este projeto participou da **15ª Feira Tecnológica do Centro Paula Souza** - <
 
 **Nossos Projetos**
 - <a href='https://github.com/aasjunior/com.sofia.mobile.git' target='_blank'>Sofia Mobile</a>
-- <a href='https://github.com/aasjunior/com.sofia.restapi' target='_blank'>Sofia Back-End (SpringBoot)</a>
-- <a href='https://github.com/mandis-ncs/api-flask' target='_blank'>Sofia Rede Neural MLP (FastAPI)</a>
+- <a href='https://github.com/aasjunior/com.sofia.restapi' target='_blank'>Sofia Back-End</a>
+- <a href='https://github.com/mandis-ncs/api-flask' target='_blank'>Sofia Rede Neural MLP</a>
+- <a href='https://github.com/aasjunior/sofia-page' target='_blank'>Sofia Site Informativo</a>
 - <a href='https://github.com/aasjunior/sofia_playground' target='_blank'>Sofia Playground</a>
 
 <br>
