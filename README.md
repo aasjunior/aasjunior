@@ -176,4 +176,8 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
 
 <a href="https://www.linkedin.com/in/adeldivo-alves-de-sousa-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<!--<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aasjunior}/count.svg" /></p> 
+<br></div>-->
 
