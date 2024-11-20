@@ -50,7 +50,7 @@ Este projeto participou da **15ª Feira Tecnológica do Centro Paula Souza** - <
 - <a href='https://github.com/aasjunior/com.sofia.mobile.git' target='_blank'>Sofia Mobile</a>
 - <a href='https://github.com/aasjunior/com.sofia.restapi' target='_blank'>Sofia Back-End</a>
 - <a href='https://github.com/mandis-ncs/api-flask' target='_blank'>Sofia Rede Neural MLP</a>
-- <a href='https://github.com/aasjunior/com.sofia.restapi/tree/main/infra' target='_blank'>Sofia Server</a>
+- <a href='https://github.com/aasjunior/com.sofia.restapi/blob/main/infra/README.md' target='_blank'>Sofia Server</a>
 - <a href='https://github.com/aasjunior/sofia-page' target='_blank'>Sofia Site Informativo</a>
 - <a href='https://github.com/aasjunior/sofia_playground' target='_blank'>Sofia Playground</a>
 
