@@ -80,7 +80,7 @@ Essa iniciativa foi publicada na <a href='https://www.fecivale.com/c%C3%B3pia-an
 ### Petshop Dogin's 🐶💙
 
 <p>
-Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um <b>CMS</b> <em>(Content Management System)</em>, que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
+Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sistema de e-commerce em duas versões: web e mobile. Na versão web, os administradores podem gerenciar produtos e estoque por meio de um <b>CMS</b> (<em>Content Management System</em>), que atualiza a página inicial para os clientes. Já na versão mobile, os usuários encontram uma lista de produtos, podendo adicioná-los ao carrinho e finalizar suas compras.
 </p><br>
 
 **Nossos Projetos**
