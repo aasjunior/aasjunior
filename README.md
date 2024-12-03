@@ -40,6 +40,10 @@ Olá, eu sou o Junior :space_invader:
     <a href='https://sofia-aja.vercel.app/'>Sofia</a> é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 2 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile <b>CAD</b> (<em>Computer-aided Diagnosis</em>) é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
 </p>
 
+###### Publicação Qualis B2 - ISSN: 2446-7049
+
+Este projeto foi publicado na **Revista Tecnológica da Fatec Americana** - <a href='https://www.fatec.edu.br/revista/index.php/RTecFatecAM/article/view/388' target='_blank'>ISSN: 2446-7049</a>
+
 ###### FETEPS 2024
 
 Este projeto participou da **15ª Feira Tecnológica do Centro Paula Souza** - <a href='https://feteps.cpscetec.com.br/docs/2024_feteps_publicacao.pdf' target='_blank'>FETEPS</a>.
