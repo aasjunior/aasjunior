@@ -34,8 +34,10 @@ Olá, eu sou o Junior :space_invader:
 
 <h2>Principais Projetos</h2>
 
-![image](https://github.com/user-attachments/assets/7d1b7c61-a33b-434d-a21a-a28c367cb5fa)
+![sofia](https://github.com/user-attachments/assets/7e34f39e-19ef-4686-b6e4-2bf2b2dad52f)
 
+<!--![image](https://github.com/user-attachments/assets/7d1b7c61-a33b-434d-a21a-a28c367cb5fa)
+-->
 <p>
     <a href='https://sofia-aja.vercel.app/'>Sofia</a> é um Software Orientado por Inteligência Artificial para Auxílio ao Pré-diagnóstico de Crianças de 0 a 2 Anos com Manifestações Comportamentais do Transtorno do Espectro Autista (TEA). O aplicativo mobile <b>CAD</b> (<em>Computer-aided Diagnosis</em>) é destinado ao auxílio de profissionais da saúde na triagem e identificação de sinais do TEA.
 </p>
