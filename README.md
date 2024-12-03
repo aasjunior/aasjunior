@@ -42,7 +42,7 @@ Olá, eu sou o Junior :space_invader:
 
 ###### Publicação Qualis B2 - ISSN: 2446-7049
 
-Este projeto foi publicado na **Revista Tecnológica da Fatec Americana** - <a href='https://www.fatec.edu.br/revista/index.php/RTecFatecAM/article/view/388' target='_blank'>ISSN: 2446-7049</a>
+Este projeto foi publicado na **Revista Tecnológica da Fatec Americana** - <a href='https://www.fatec.edu.br/revista/index.php/RTecFatecAM/article/view/388' target='_blank'>ISSN: 2446-7049</a>.
 
 ###### FETEPS 2024
 
