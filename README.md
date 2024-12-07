@@ -127,7 +127,7 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
       <p align='justify'><b>Tópicos abordados:</b> Aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div><br>
 
-<h3>Qualificações Extra Curriculares</h3>
+<h3>Qualificações Técnicas Extra-Curriculares</h3>
 
 <h6>Cisco Academy</h6>
 
