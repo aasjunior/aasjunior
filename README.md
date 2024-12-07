@@ -127,6 +127,15 @@ Dogin's é um petshop com um design AUUdacioso 🐶💙. O projeto inclui um sis
       <p align='justify'><b>Tópicos abordados:</b> Aprendizado automatizado, interpretação visual por meio de computadores, análise de linguagem natural e considerações éticas na IA.</p>
 </div><br>
 
+<h3>Qualificações Extra Curriculares</h3>
+
+<h6>Cisco Academy</h6>
+
+<img width='120' alt='python-essentials-1' src='https://github.com/user-attachments/assets/92c5a1c2-1a46-49ac-818d-231e819c8f77' />
+<img width='120' alt='introduction-to-data-science' src='https://github.com/user-attachments/assets/9f310983-c2b1-4c2a-9268-e7e281c03eac' />
+<img width='120' alt='introduction-to-iot' src='https://github.com/user-attachments/assets/731fbc02-1f55-4aed-88f4-bb839166f207' />
+
+
 <h2>Principais Tecnologias</h2>
 
 **Linguagens**:
