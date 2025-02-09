@@ -6,7 +6,7 @@ Olá, eu sou o Junior :space_invader:
     <ul>
         <li>:mechanical_leg: Técnico em Mecatrônica | IFSP</li>
         <li>:technologist: Técnico em Desenvolvimento de Sistemas | ETEC</li>
-        <li>:man_student: Graduando em Desenvolvimento de Software Multiplataforma | FATEC</li>
+        <li>:man_student: Tecnólogo em Desenvolvimento de Software Multiplataforma | FATEC</li>
     </ul>
 </p>
 
